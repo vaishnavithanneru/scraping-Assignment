@@ -784,3 +784,7 @@ The test suite can be executed using:
 ```bash
 python3 -m pytest
 ```
+
+It can accessed through the public link. i am providing the link below :
+
+https://scraping-assignment-cqb65wpm9yxyrxk7rnwd9r.streamlit.app/
