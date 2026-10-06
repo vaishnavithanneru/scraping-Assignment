@@ -1,0 +1,19 @@
+{
+    "books": {
+        "scraped": 1000,
+        "cleaned": 1000,
+        "rejected": 0,
+        "rejection_reasons": {}
+    },
+    "quotes": {
+        "scraped": 100,
+        "cleaned": 100,
+        "rejected": 0,
+        "rejection_reasons": {}
+    },
+    "duplicates": 1,
+    "final_records": 1099,
+    "start_time": "2026-10-06T08:05:10.720875+00:00",
+    "end_time": "2026-10-06T08:06:43.163316+00:00",
+    "duration_seconds": 92.44
+}
