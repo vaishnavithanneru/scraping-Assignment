@@ -291,7 +291,7 @@ def main():
         "Duration: %.2f seconds",
         duration
     )
-
+    return unique_records, summary
 
 if __name__ == "__main__":
     main()
